@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sanduni!!</h1>
-<h3 align="center">A passionate IT student from Sri Lanka</h3>
+<h3 align="center">A passionate Data Science Undergraduate from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **MERN project**
+- 🔭 I’m currently working on some **Data Engineering projects**
 
-- 🌱 I’m currently learning **JAVA,python,Kotlin,react**
+- 🌱 I’m currently learning **python,SQL**
 
-- 📫 How to reach me **sandu.dul@gmail.com**
+- 📫 How to reach me **sandu318dul@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
