@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Sanduni Dulakshika! 🌷</h1>
+<h1 align="center">Hello, I'm Sanduni!! 🌷</h1>
 <h3 align="center">A Data Science Undergraduate 🌺 | Weaving Data into Enchanting Stories</h3>
 
 <p align="center">
