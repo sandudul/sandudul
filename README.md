@@ -1,4 +1,11 @@
-<h1 align="center">Hello, I'm Sanduni!! 🌷</h1>
+<h1 align="center">Hello, I'm Sanduni!! </h1>
+
+<br>
+<p align = "center">
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="60" />
+</p>
+<br>
+
 <h3 align="center">A Data Science Undergraduate 🌺 | Weaving Data into Enchanting Stories</h3>
 
 <p align="center">
@@ -79,9 +86,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandudul&theme=panda&hide_border=true" alt="GitHub Streak" style="margin: 12px;" />
 </p>
 
-<br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br><br>
+
 
 
 ---
