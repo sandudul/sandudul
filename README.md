@@ -1,6 +1,4 @@
-<h1 align="center">Hello, I'm Sanduni!! </h1>
-
-
+<h1 align="center">Hello, I'm Sanduni!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 <h3 align="center">A Data Science Undergraduate 🌺 | Weaving Data into Enchanting Stories</h3>
 
@@ -28,24 +26,10 @@
 
 <br>
 
----
+[![Linkedin Badge](https://img.shields.io/badge/-sandu_dul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanduni-dulakshika-1a4394229/)](https://www.linkedin.com/in/sanduni-dulakshika-1a4394229) 
+[![Twitter Badge](https://img.shields.io/badge/-@sd_318-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sd_318)](https://twitter.com/sd_318) 
+[![Instagram Badge](https://img.shields.io/badge/-@__sa_ndu__-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/__sa_ndu__/)](https://www.instagram.com/__sa_ndu__/)
 
-## 💌 Stay Connected
-
-<p align="center">
-  <a href="https://twitter.com/sd_318" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="50" style="margin: 0 12px; filter: drop-shadow(0 0 5px #FF91A4);" />
-  </a>
-  <a href="https://linkedin.com/in/sanduni-dulakshika-1a4394229" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" style="margin: 0 12px; filter: drop-shadow(0 0 5px #FF91A4);" />
-  </a>
-  <a href="https://instagram.com/__sa_ndu__" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" style="margin: 0 12px; filter: drop-shadow(0 0 5px #FF91A4);" />
-  </a>
-  <a href="https://medium.com/@sandu318dul" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="50" style="margin: 0 12px; filter: drop-shadow(0 0 5px #FF91A4);" />
-  </a>
-</p>
 
 ---
 
@@ -78,14 +62,18 @@
 ---
 
 ## 🌈 My GitHub Journey
-
+<div>
+<div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandudul&show_icons=true&locale=en&layout=compact&theme=panda" alt="Top Languages" style="margin: 12px;" />
 </p>
-
+</div>
+<div>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandudul&theme=panda&hide_border=true" alt="GitHub Streak" style="margin: 12px;" />
 </p>
+</div>
+</div>
 
 <br>
 <p align = "center">
@@ -93,5 +81,6 @@
 </p>
 <br>
 
-
 ---
+
+
