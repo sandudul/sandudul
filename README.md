@@ -1,10 +1,6 @@
 <h1 align="center">Hello, I'm Sanduni!! </h1>
 
-<br>
-<p align = "center">
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="60" />
-</p>
-<br>
+
 
 <h3 align="center">A Data Science Undergraduate 🌺 | Weaving Data into Enchanting Stories</h3>
 
@@ -19,13 +15,18 @@
 </p>
 
 ---
-
 ## 🌸 About Me
+
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
+<br>
 
 - 🌟 **Crafting**: Data Engineering projects that bloom with insights
 - 🌱 **Growing**: Mastering **Python**, **SQL**, and the art of data visualization
 - 💕 **Fun Fact**: I love turning numbers into pastel-colored masterpieces!
 - 📩 **Say Hi**: [sandu318dul@gmail.com](mailto:sandu318dul@gmail.com)
+
+<br>
 
 ---
 
@@ -86,7 +87,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandudul&theme=panda&hide_border=true" alt="GitHub Streak" style="margin: 12px;" />
 </p>
 
-
+<br>
+<p align = "center">
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="60" />
+</p>
+<br>
 
 
 ---
