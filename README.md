@@ -79,9 +79,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandudul&theme=panda&hide_border=true" alt="GitHub Streak" style="margin: 12px;" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/20955511/183303729-f3c89ba7-efef-437e-9a05-fa5feebb9d72.png/?user=sandudul" alt="GitHub Streak" style="margin: 12px;" />
-</p>
      
 
 
