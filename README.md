@@ -26,10 +26,11 @@
 
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sandu_dul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanduni-dulakshika-1a4394229/)](https://www.linkedin.com/in/sanduni-dulakshika-1a4394229) 
-[![Twitter Badge](https://img.shields.io/badge/-@sd_318-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sd_318)](https://twitter.com/sd_318) 
-[![Instagram Badge](https://img.shields.io/badge/-@__sa_ndu__-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/__sa_ndu__/)](https://www.instagram.com/__sa_ndu__/)
-
+[![](https://img.shields.io/badge/linkedin-c7c3f7)](https://linkedin.com/in/sanduni-dulakshika-1a4394229)
+[![](https://img.shields.io/badge/instagram-faa7c4)](https://www.instagram.com/__sa_ndu__/)
+[![](https://img.shields.io/badge/x-b3cde0)](https://x.com/@sd_318)
+[![](https://img.shields.io/badge/medium-a8d5ba)](https://medium.com/@sandu318dul)
+[![](https://img.shields.io/badge/facebook-a7caff)](https://facebook.com/__sa_ndu__)
 
 ---
 
