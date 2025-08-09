@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Sanduni!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-<h3 align="center">A Data Science Undergraduate | Weaving Data into Enchanting Stories</h3>
+<h3 align="center">Data Science Undergraduate | Weaving Data into Enchanting Stories</h3>
 
 <p align="center">
   <em>Chasing dreams, coding with heart, and sprinkling sparkle on every dataset! 💫</em>
