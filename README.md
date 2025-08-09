@@ -6,12 +6,6 @@
   <em>Chasing dreams, coding with heart, and sprinkling sparkle on every dataset! 💫</em>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sandudul&ryo-ma&theme=nord&margin-w=10&column=8" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ---
 ## About Me
 
@@ -75,6 +69,12 @@
 </p>
 </div>
 </div>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sandudul&ryo-ma&theme=nord&margin-w=10&column=8" alt="GitHub Trophies" />
+  </a>
+</p>
 
 <br>
 <p align = "center">
