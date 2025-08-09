@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Sanduni!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-<h3 align="center">A Data Science Undergraduate 🌺 | Weaving Data into Enchanting Stories</h3>
+<h3 align="center">A Data Science Undergraduate | Weaving Data into Enchanting Stories</h3>
 
 <p align="center">
   <em>Chasing dreams, coding with heart, and sprinkling sparkle on every dataset! 💫</em>
@@ -13,7 +13,7 @@
 </p>
 
 ---
-## 🌸 About Me
+## About Me
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 🎀 My Magical Toolkit
+## My Magical Toolkit
 
 <p align="center">
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50" style="margin: 12px; filter: drop-shadow(0 0 5px #FFB6C1);" /></a>
@@ -62,7 +62,7 @@
 
 ---
 
-## 🌈 My GitHub Journey
+## My GitHub Journey
 <div>
 <div>
 <p align="center">
