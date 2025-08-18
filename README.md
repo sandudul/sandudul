@@ -26,7 +26,7 @@
 
 <br>
 
-[![](https://img.shields.io/badge/linkedin-c7c3f7)](https://linkedin.com/in/sanduni-dulakshika-1a4394229)
+[![](https://img.shields.io/badge/linkedin-c7c3f7)](https://www.linkedin.com/in/sandudul/)
 [![](https://img.shields.io/badge/instagram-faa7c4)](https://www.instagram.com/__sa_ndu__/)
 [![](https://img.shields.io/badge/x-b3cde0)](https://x.com/@sd_318)
 [![](https://img.shields.io/badge/medium-a8d5ba)](https://medium.com/@sandu318dul)
