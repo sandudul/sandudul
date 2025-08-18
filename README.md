@@ -7,10 +7,23 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sandudul&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@sandudul?theme=moebooru" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sandudul&label=Profile%20Views&color=ffb6c1&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sandudul&ryo-ma&theme=nord&margin-w=10&column=8" alt="GitHub Trophies" />
   </a>
 </p>
+
 
 ---
 ## About Me
