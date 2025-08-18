@@ -7,15 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandudul&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@sandudul?theme=moebooru" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandudul&label=Profile%20Views&color=ffb6c1&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sandudul&label=Profile%20Views&color=87cefa&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -74,7 +66,6 @@
 </p>
 
 ---
-
 ## My GitHub Journey
 <div>
 <div>
