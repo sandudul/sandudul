@@ -24,7 +24,7 @@
 
 <br>
 
-- 🌟 **Crafting**: Data Engineering projects that bloom with insights
+- 🌟 Exploring hands-on data engineering projects to uncover actionable insights
 - 🌱 **Growing**: Mastering **Python**, **SQL**, and the art of data visualization
 - 💕 **Fun Fact**: I love turning numbers into pastel-colored masterpieces!
 - 📩 **Say Hi**: [sandu318dul@gmail.com](mailto:sandu318dul@gmail.com)
