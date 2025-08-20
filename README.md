@@ -31,11 +31,13 @@
 
 <br>
 
-[![](https://img.shields.io/badge/linkedin-c7c3f7)](https://www.linkedin.com/in/sandudul/)
-[![](https://img.shields.io/badge/instagram-faa7c4)](https://www.instagram.com/__sa_ndu__/)
-[![](https://img.shields.io/badge/x-b3cde0)](https://x.com/@sd_318)
-[![](https://img.shields.io/badge/medium-a8d5ba)](https://medium.com/@sandu318dul)
-[![](https://img.shields.io/badge/facebook-a7caff)](https://facebook.com/__sa_ndu__)
+[![](https://img.shields.io/badge/gmail-FFF9C4)](mailto:sandu318dul@gmail.com)
+[![](https://img.shields.io/badge/x-333333)](https://x.com/@sd_318)
+[![](https://img.shields.io/badge/linkedin-D9B3FF)](https://www.linkedin.com/in/sandudul/)
+[![](https://img.shields.io/badge/instagram-FFC0CB)](https://www.instagram.com/__sa_ndu__/)
+[![](https://img.shields.io/badge/medium-BFFCC6)](https://medium.com/@sandu318dul)
+[![](https://img.shields.io/badge/facebook-AEDFF7)](https://facebook.com/__sa_ndu__)
+
 
 ---
 
