@@ -26,7 +26,7 @@
 
 - 🌟 Exploring hands-on data engineering projects to uncover actionable insights
 - 🌱 Learning Python, SQL, and data visualization techniques
-- 💕 **Fun Fact**: I love turning numbers into pastel-colored masterpieces!
+- 💕 Passionate about transforming raw data into meaningful, visually appealing stories
 - 📩 **Say Hi**: [sandu318dul@gmail.com](mailto:sandu318dul@gmail.com)
 
 <br>
