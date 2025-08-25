@@ -6,16 +6,16 @@
   <em>Chasing dreams, coding with heart, and sprinkling sparkle on every dataset! 💫</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandudul&label=Profile%20Views&color=87cefa&style=for-the-badge" alt="Profile views" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sandudul&label=Profile%20views&color=87cefa&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sandudul?label=Followers&style=social" alt="GitHub Followers" />
+</div>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sandudul&ryo-ma&theme=nord&margin-w=10&column=8" alt="GitHub Trophies" />
   </a>
 </p>
-
 
 ---
 ## About Me
