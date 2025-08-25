@@ -69,13 +69,16 @@
 ---
 ## My GitHub Journey
 
-<p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=sandudul&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <p align="center">
     <img height="165" src="https://streak-stats.demolab.com?user=sandudul&theme=tokyonight&hide_border=true" alt="streak" />
   </p>
   <p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=sandudul&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandudul&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
   </p>
+  <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandudul&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  </div>
 
 <br>
 <p align = "center">
