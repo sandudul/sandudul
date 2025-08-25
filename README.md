@@ -71,9 +71,9 @@
 
   <p align="center">
     <img height="165" src="https://streak-stats.demolab.com?user=sandudul&theme=tokyonight&hide_border=true" alt="streak" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=sandudul&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
   </p>
   <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=sandudul&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandudul&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
   </p>
   <div align="center">
