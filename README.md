@@ -3,7 +3,7 @@
 <h3 align="center">Data Science | AI ML Enthusiast | passionate about Data Engineering</h3>
 
 <p align="center">
-  <em>SLIIT 3'RD year undergradguate 💫</em>
+  <em>SLIIT 3'rd year undergradguate 💫</em>
 </p>
 
 <div align="center">
