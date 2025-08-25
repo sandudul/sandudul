@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Sanduni!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-<h3 align="center">Data Science Undergraduate | Weaving Data into Enchanting Stories</h3>
+<h3 align="center">Data Science |AI ML Enthusiast| passionate about Data Engineering</h3>
 
 <p align="center">
-  <em>Chasing dreams, coding with heart, and sprinkling sparkle on every dataset! 💫</em>
+  <em>SLIIT 3'RD year undergradguate 💫</em>
 </p>
 
 <div align="center">
