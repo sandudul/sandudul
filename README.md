@@ -68,18 +68,14 @@
 
 ---
 ## My GitHub Journey
-<div>
-<div>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandudul&show_icons=true&locale=en&layout=compact&theme=panda" alt="Top Languages" style="margin: 12px;" />
-</p>
-</div>
-<div>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandudul&theme=panda&hide_border=true" alt="GitHub Streak" style="margin: 12px;" />
-</p>
-</div>
-</div>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=sandudul&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+    <img height="165" src="https://streak-stats.demolab.com?user=sandudul&theme=tokyonight&hide_border=true" alt="streak" />
+  </p>
+  <p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandudul&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+  </p>
 
 <br>
 <p align = "center">
