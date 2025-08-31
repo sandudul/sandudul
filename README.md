@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/github/followers/sandudul?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
+<br>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sandudul&ryo-ma&theme=nord&margin-w=10&column=8" alt="GitHub Trophies" />
