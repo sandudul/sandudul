@@ -32,7 +32,7 @@
 
 <br>
 
-[![](https://img.shields.io/badge/gmail-FFF9C4)](mailto:sandu318dul@gmail.com)
+[![](https://img.shields.io/badge/gmail-FFF9C4)](mailto:iam.sandudul@gmail.com)
 [![](https://img.shields.io/badge/x-333333)](https://x.com/@sd_318)
 [![](https://img.shields.io/badge/linkedin-D9B3FF)](https://www.linkedin.com/in/sandudul/)
 [![](https://img.shields.io/badge/instagram-FFC0CB)](https://www.instagram.com/__sa_ndu__/)
