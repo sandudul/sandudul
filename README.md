@@ -45,7 +45,7 @@
 ## Toolkit
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=androidstudio,kotlin,react,java,python,nodejs,express,mongodb,mysql,git,figma,bootstrap,tailwind,html,css,javascript,aws,azure,fastapi,linux,netlify,php,postman,r,threejs,ts,vite&perline=9" 
+    src="https://skillicons.dev/icons?i=androidstudio,kotlin,react,java,python,nodejs,express,mongodb,mysql,git,figma,bootstrap,tailwind,html,css,javascript,aws,azure,fastapi,streamlit,numpy,pandas,tensorflow,php,postman,r,ts,vite&perline=9" 
     alt="Tech Stack Icons" 
   />
 </p>
