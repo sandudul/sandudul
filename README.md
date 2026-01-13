@@ -48,6 +48,13 @@
     src="https://skillicons.dev/icons?i=androidstudio,kotlin,react,java,python,nodejs,express,mongodb,mysql,git,figma,bootstrap,tailwind,html,css,javascript,aws,azure,fastapi,streamlit,docker,numpy,pandas,tensorflow,php,postman,r,ts,vite&perline=9" 
     alt="Tech Stack Icons" 
   />
+  <p align="center">
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" alt="NumPy" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="Pandas" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="48" alt="TensorFlow" />
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="48" alt="Streamlit" />
+</p>
+
 </p>
 
 ---
