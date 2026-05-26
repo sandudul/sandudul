@@ -43,7 +43,7 @@
 </p>
 
 ---
-## My GitHub Journey
+## GitHub Journey
 
   <p align="center">
     <img height="165" src="https://streak-stats.demolab.com?user=sandudul&theme=tokyonight&hide_border=true" alt="streak" />
